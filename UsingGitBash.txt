@@ -1,0 +1,6 @@
+git init
+git remote add origin <getLink>
+git remote -v
+git add .
+git commit -m "Comments e.g. First commit"
+git push origin master
